@@ -1,6 +1,6 @@
 # Google Docs Horizontal Line Insert (AutoHotkey)
 
-This AutoHotkey script provides a quick way to insert a horizontal line in Google Docs using a simple hotstring (`---`) or a custom hotkey (`Ctrl+Alt+H`).  
+A lightweight [AutoHotkey](https://www.autohotkey.com/) script for [Windows](https://www.microsoft.com/windows) that provides a quick way to insert a horizontal line in Google Docs using a simple hotstring (`---`) or a custom hotkey (`Ctrl+Alt+H`).  
 Instead of manually navigating to **Insert → Horizontal line**, the script automates the key sequence (`Alt + i, r`) for you.
 
 ## Features
