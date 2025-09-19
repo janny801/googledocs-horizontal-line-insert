@@ -9,6 +9,11 @@ Instead of manually navigating to **Insert → Horizontal line**, the script aut
 - **Google Docs only:** Script is active only when a Google Docs tab in Chrome is focused.  
 - **Customizable:** Adjust wait times (`Sleep`) or change hotkeys easily.
 
+## Customization
+- Adjust the `Sleep` value in `script.ahk` if the Insert menu is slow.
+- Change the `^!h::` binding to a different hotkey if preferred.
+- Replace `chrome.exe` with your browser (e.g., `msedge.exe`, `firefox.exe`) if not using Chrome.
+
 ## Demo
 ![Demo GIF](imgs/chromehorizontalline.gif)  
 
